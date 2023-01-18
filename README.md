@@ -1,8 +1,8 @@
 
-# Projeto 02
+# Projeto 05
 ## Seus dados estão protegidos?
 
-Projeto de introdução a programação HTML e CCS.
+Projeto de programação HTML e CCS.
 
 - Estruturação semântica;
 - CSS avançado
